@@ -47,7 +47,7 @@ We are **multi-cloud**: commercetools runs on **Google Cloud Platform** and **AW
   <img src="images/image-2.jpg">
 </p>
 
-We have [offices](https://commercetools.com/offices) around the world and value flexibility. You can work from **one our our offices** but also **remotely from many locations** across the world depending on the role.
+We have [offices](https://commercetools.com/offices) around the world and value flexibility. You can work from **one of our offices** but also **remotely from many locations** across the world depending on the role.
 
 We care about **your growth** and well-being with different benefits depending on your location.
 
